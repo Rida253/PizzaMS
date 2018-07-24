@@ -1,0 +1,11 @@
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\bin\Debug\Pizza_Ms.exe.config
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\bin\Debug\Pizza_Ms.exe
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\bin\Debug\Pizza_Ms.pdb
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\obj\Debug\Pizza_Ms.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\obj\Debug\Pizza_Ms.Form1.resources
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\obj\Debug\Pizza_Ms.Form2.resources
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\obj\Debug\Pizza_Ms.Properties.Resources.resources
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\obj\Debug\Pizza_Ms.csproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\obj\Debug\Pizza_Ms.exe
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\obj\Debug\Pizza_Ms.pdb
+D:\visual studio 2015\Projects\Pizza_Ms\Pizza_Ms\obj\Debug\Pizza_Ms.Form3.resources
